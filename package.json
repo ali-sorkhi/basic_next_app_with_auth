@@ -16,6 +16,18 @@
   "devDependencies": {
     "autoprefixer": "^10",
     "postcss": "^8",
-    "tailwindcss": "^3"
+    "tailwindcss": "^3",
+    "@material-tailwind/react": "^2.0.7",
+    "bcryptjs": "^2.4.3",
+    "chart.js": "^4.3.3",
+    "flowbite": "^1.7.0",
+    "flowbite-react": "^0.4.11",
+    "framer-motion": "^10.12.18",
+    "moment-jalaali": "^0.10.0",
+    "mongoose": "^7.3.1",
+    "next": "13.4.5",
+    "next-auth": "^4.22.1",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   }
 }
